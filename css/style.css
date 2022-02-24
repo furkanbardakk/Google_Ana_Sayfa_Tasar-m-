@@ -107,7 +107,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   color: rgba(0, 0, 0, 0.87);
   word-wrap: break-word;
   outline: 0;
-  visibility: hidden;
+  border:3px;
   display: flex;
   flex: 100%;
   margin-top: -68px;
